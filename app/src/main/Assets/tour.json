@@ -1,0 +1,63 @@
+{
+  "status":true,
+  "data":{
+    "content":[
+      {
+        "placeId":"aDZsQkIxMitWNllRVWpQM0lGcHJPdz09",
+        "areaId":"WGtqZ2NoV2l5djcybWc3TU9ydk9LZz09",
+        "areaName":"Jakarta",
+        "isRecomended":0,
+        "placeCategoryId":"WGQvSE5FeUZXb0k5VlBnb0hQYVl3UT09",
+        "placeGoogleId":"ChIJG1ytuCIeai4RELSMP0wM6o4",
+        "categoryName":"Amusement Park",
+        "imageUrl":"http://api.gaidz.id/images/place/category-1575271300.jpeg",
+        "placeName":"Sea World Ancol",
+        "price":"$15",
+        "latitude":"-6.125947",
+        "longitude":"106.842914",
+        "description":"Sea World Ancol is a marine aquarium suited in North Jakarta, Jakarta, Indonesia. It consists of 1 Main tank, 1 shark tank, and several other tanks, also the white crocodile exhibit. The Main tank is the biggest aquarium in the Southeast Asia.",
+        "rating":null,
+        "funFact":"The right place if you want to see sea animals like sharks, rays and other sea animals. We can also touch some sea animals. There are 126 types of fish, amounting to 22,000 fish.",
+        "thumbnail":"http://api.gaidz.id/images/place/thumbnail",
+        "googlePlaceName":null,
+        "googleAddress":null,
+        "googlePhoneNumber":null,
+        "googleWebsite":null,
+        "googleRating":null,
+        "googleOpeningHours":null,
+        "placeImage":"/images/category/category-1575271300.jpeg",
+        "imageId":""
+      },
+      {
+        "placeId":"SU9BUStOeXdZYXBvNW9LaTB6NmhyZz09",
+        "areaId":"WGtqZ2NoV2l5djcybWc3TU9ydk9LZz09",
+        "areaName":"Jakarta",
+        "isRecomended":0,
+        "placeCategoryId":"WGQvSE5FeUZXb0k5VlBnb0hQYVl3UT09",
+        "placeGoogleId":"ChIJcdfvd3T0aS4RWFPBwpxqIIU",
+        "categoryName":"Amusement Park",
+        "imageUrl":"http://api.gaidz.id/images/place/category-1575271300.jpeg",
+        "placeName":"Ancol Dreamland",
+        "price":"$3",
+        "latitude":"-6.126178",
+        "longitude":"106.836041",
+        "description":"Ancol Dreamland is an integral part of Ancol Bay City, a resort destination located along Jakarta's waterfront, Indonesia.The largest integrated tourism area in South East Asia, boasting an a theme park, hotels and other recreational facilities. ",
+        "rating":null,
+        "funFact":"We recommend that you determine the first place to be visited before the visit, such as Ancol Beach, Fantasy World (Dufan), Atlantis Waterpark, Seaworld, Marina and Ocean Arena ",
+        "thumbnail":"http://api.gaidz.id/images/place/thumbnail/thumbnail-1574762318.jpeg",
+        "googlePlaceName":null,
+        "googleAddress":null,
+        "googlePhoneNumber":null,
+        "googleWebsite":null,
+        "googleRating":null,
+        "googleOpeningHours":null,
+        "placeImage":"/images/place/3-1574265395.jpeg",
+        "imageId":""
+      }
+    ],
+    "total":2,
+    "totalPaging":1
+  },
+  "message":"",
+  "code":200
+}
